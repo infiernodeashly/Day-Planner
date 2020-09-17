@@ -12,7 +12,7 @@ Type and click the 'save' icon.
 
 ![image](https://user-images.githubusercontent.com/68360119/93411506-4e789000-f869-11ea-9585-9428d3fdb3fa.png)
 
-Now the data is saved.
+Now the data is saved and has a light blue border.
 
 ![image](https://user-images.githubusercontent.com/68360119/93411618-8aabf080-f869-11ea-9706-d06cd9672dd8.png)
 
