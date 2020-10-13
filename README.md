@@ -16,7 +16,7 @@ Now the data is saved and has a light blue border.
 
 ![image](https://user-images.githubusercontent.com/68360119/93411618-8aabf080-f869-11ea-9706-d06cd9672dd8.png)
 
-The current hour will be red, future hours will be green, and past hours will be white.
+The current hour will be red-orange, future hours will be green, and past hours will be white.
 
 ![image](https://user-images.githubusercontent.com/68360119/95889214-20934800-0d50-11eb-83ee-8182845bee4e.png)
 
