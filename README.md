@@ -6,7 +6,7 @@ URL: https://infiernodeashly.github.io/Day-Planner/
 With this assignment, I created a daily agenda that allows the user to input and save data so that when they return to or reload the screen their information is saved and still visible. The Agenda lists the current day. The user can input as much information in the Agenda row as they want. 
 
 
-![image](https://user-images.githubusercontent.com/68360119/93411297-d6aa6580-f868-11ea-942e-2e5fbdd0ff1c.png)
+![image](https://user-images.githubusercontent.com/68360119/95888663-5dab0a80-0d4f-11eb-99de-d846013aa24e.png)
 
 Type and click the 'save' icon.
 
