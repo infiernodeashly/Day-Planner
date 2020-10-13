@@ -2,6 +2,7 @@ $(document).ready(function () {
     //date and time in specified format.
     $("#currentDay").text(moment().format("MMM Do YYYY"));
 
+    
     //saveBtn eventlistener
     $(".saveBtn").on("click", function () {
         //log info collected
@@ -12,8 +13,8 @@ $(document).ready(function () {
         //save to local storage.
         localStorage.setItem(time, text);
     })
-    //load any saved data from LocalStorage - do this for each hour created.
-    $("#hour24 .description").val(localStorage.getItem("hour24"));
+    //load any saved data from LocalStorage for each hour
+    $("#hour0 .description").val(localStorage.getItem("hour0"));
     $("#hour1 .description").val(localStorage.getItem("hour1"));
     $("#hour2 .description").val(localStorage.getItem("hour2"));
     $("#hour3 .description").val(localStorage.getItem("hour3"));
@@ -65,6 +66,8 @@ $(document).ready(function () {
                 $(this).addClass("future");
             }
         })
+        
     }
     hourTracker();
 })
+
